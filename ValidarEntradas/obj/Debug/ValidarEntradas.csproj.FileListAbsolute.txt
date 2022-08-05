@@ -1,0 +1,10 @@
+C:\Users\davil\source\repos\ValidarEntradas\bin\Debug\ValidarEntradas.exe.config
+C:\Users\davil\source\repos\ValidarEntradas\bin\Debug\ValidarEntradas.exe
+C:\Users\davil\source\repos\ValidarEntradas\bin\Debug\ValidarEntradas.pdb
+C:\Users\davil\source\repos\ValidarEntradas\obj\Debug\ValidarEntradas.csproj.AssemblyReference.cache
+C:\Users\davil\source\repos\ValidarEntradas\obj\Debug\ValidarEntradas.Form1.resources
+C:\Users\davil\source\repos\ValidarEntradas\obj\Debug\ValidarEntradas.Properties.Resources.resources
+C:\Users\davil\source\repos\ValidarEntradas\obj\Debug\ValidarEntradas.csproj.GenerateResource.cache
+C:\Users\davil\source\repos\ValidarEntradas\obj\Debug\ValidarEntradas.csproj.CoreCompileInputs.cache
+C:\Users\davil\source\repos\ValidarEntradas\obj\Debug\ValidarEntradas.exe
+C:\Users\davil\source\repos\ValidarEntradas\obj\Debug\ValidarEntradas.pdb
