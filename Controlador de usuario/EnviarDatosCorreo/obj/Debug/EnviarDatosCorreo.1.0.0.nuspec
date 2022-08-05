@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EnviarDatosCorreo</id>
+    <version>1.0.0</version>
+    <authors>EnviarDatosCorreo</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="MailKit" version="3.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\davil\source\repos\EnviarDatosCorreo\bin\Debug\netcoreapp3.1\EnviarDatosCorreo.runtimeconfig.json" target="lib\netcoreapp3.1\EnviarDatosCorreo.runtimeconfig.json" />
+    <file src="C:\Users\davil\source\repos\EnviarDatosCorreo\bin\Debug\netcoreapp3.1\EnviarDatosCorreo.dll" target="lib\netcoreapp3.1\EnviarDatosCorreo.dll" />
+  </files>
+</package>
